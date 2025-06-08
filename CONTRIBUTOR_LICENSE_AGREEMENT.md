@@ -1,4 +1,7 @@
-# n8n Contributor License Agreement
+
+
+#
+n8n Contributor License Agreement
 
 I give n8n permission to license my contributions on any terms they like. I am giving them this license in order to make it possible for them to accept my contributions into their project.
 
